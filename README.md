@@ -5,9 +5,8 @@
 This project is a team assignment for the "Computer Games" and "Virtual Reality" courses, offered in the 7th semester of the 2023 academic year at the University of Piraeus, Department of Informatics. The project is Unity 3D game with basic features, such as an entry screen, in-game menus, and HUD elements. The game simulates the daily life of a farmer named Alex.
 
 ## Course Information
-
-- **Institution:** University of Piraeus
-- **Department:** Department of Informatics
+- **Institution:** [University of Piraeus](https://www.unipi.gr/en/)
+- **Department:** [Department of Informatics](https://cs.unipi.gr/en/)
 - **Courses:** Computer Games & Virtual Reality (2023)
 - **Semester:** 7th
 
